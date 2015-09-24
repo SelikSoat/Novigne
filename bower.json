@@ -1,0 +1,19 @@
+{
+  "name": "novigne",
+  "version": "0.0.0",
+  "description": "propositon de services",
+  "main": "index.js",
+  "moduleType": [],
+  "authors": [
+    "Selik"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
